@@ -1,4 +1,4 @@
-# News Recommendation Engine
+#News Recommendation Engine
 
 A hybrid recommendation system that combines collaborative and content-based filtering with NLP techniques for personalized news recommendations.
 
